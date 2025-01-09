@@ -1,4 +1,4 @@
-# Github-Repository-Page-Clone
+# Github-Page-Clone
 learning tailwindcss through building a github repository page front-end (old version)
 
 ## Key Takeaways:
